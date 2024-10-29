@@ -73,3 +73,27 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.stats-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+
+.stats-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+
+}
+
+.game-card img {
+    width: 100%; 
+    height: auto;
+    max-height: 150px; 
+    object-fit: cover; 
+}
+
+#button-container{
+    cursor: pointer;
+}
