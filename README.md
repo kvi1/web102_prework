@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 Cursor pointer for buttons.
 Something else that can be done is better layout and colors.
@@ -38,6 +38,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+A couple of challenges I faced was one not realizing for innerHTML you had to set it equal to something. Another challenge I faced was getting the images to be a decent size so the screen didn't look very weird.
 
 ## License
 
